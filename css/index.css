@@ -80,7 +80,7 @@ body {
 .page3 .quote,
 .page4 .quote {
   position: absolute;
-  top: 1.35rem;
+  top: 0.9rem;
   left: 0.4rem;
   width: 3.15rem;
   height: 1.51rem;
@@ -496,7 +496,7 @@ body {
 }
 .page2 .one,
 .page3 .one {
-  top: 3.6rem;
+  top: 2.6rem;
   left: 50%;
   margin-left: -2.4rem;
 }
